@@ -1,48 +1,48 @@
 [[Aeron]]
 arch = "aarch64"
-git-tree-sha1 = "0c29f139067fc9c7954362544052f9822430818f"
+git-tree-sha1 = "84014f80340949efb7168c77dde943beb4ce1108"
 os = "macos"
 
     [[Aeron.download]]
-    sha256 = "3db7ea6cdb258fd185b74335c675edd2bdb98e1333905571b6d2a0854b66df60"
-    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.40.0+0/Aeron.v1.40.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "588533b7a42f43de2d28ab1441506d88217fd0d112b966dbdba9ac1847fd47cb"
+    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.42.1+0/Aeron.v1.42.1.aarch64-apple-darwin.tar.gz"
 [[Aeron]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "aadb78204d64d4e9d569757b7e0df1e4f393c035"
+git-tree-sha1 = "1beaa88966dbe80cec4f199c5085d4ce5b67f1aa"
 libc = "glibc"
 os = "linux"
 
     [[Aeron.download]]
-    sha256 = "24fb8a3b4a89c7c35e08115e16b9531439fe3ec21cc841b11278c7e12ba6ff46"
-    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.40.0+0/Aeron.v1.40.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "30279358eb9d5ecb3bee962745983d21116724dc43c630dca1ffeef8d45e66d6"
+    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.42.1+0/Aeron.v1.42.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Aeron]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f2170f7225d3f6f09cfdac4ffcb37bdf3a67d98"
+git-tree-sha1 = "15fac5fdbcbafb567e9ad4856ac8d8e6533cab4d"
 libc = "glibc"
 os = "linux"
 
     [[Aeron.download]]
-    sha256 = "04d6996f18026a91b3765de14704cf31b5a9ac1d0c3e6daac91388b2de14a410"
-    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.40.0+0/Aeron.v1.40.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "cfd56b66fbc2c4039f75f40fe4acb3f913f85c5574ca0d68bd4846d4491e07e7"
+    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.42.1+0/Aeron.v1.42.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Aeron]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c8f621fa1f013a71bea274e0ce30c7ab8b3aa049"
+git-tree-sha1 = "7754dbe18b3e958fb36d833e13cdca6b040b5f6e"
 libc = "glibc"
 os = "linux"
 
     [[Aeron.download]]
-    sha256 = "5127a18283aa6cc0e980a22ac291272a1a72209b3965545d0cf575579e3c766a"
-    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.40.0+0/Aeron.v1.40.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5f263669cdff989f632e530a002e437fc33e149a767c0b592336577bfdee2225"
+    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.42.1+0/Aeron.v1.42.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[Aeron]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "35a246a89c894d2368f097768fbf537ed6848e72"
+git-tree-sha1 = "ee941e5a2ed78b7e0dca9db69291a8f143a337d8"
 libc = "glibc"
 os = "linux"
 
     [[Aeron.download]]
-    sha256 = "50ed2c5184be1690f625f031330506dca1cc4bf18da1282228578e3af7ffaa02"
-    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.40.0+0/Aeron.v1.40.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7a7412720ac2ef50eb7350d64a29755ec8951b2fe673c78ff57528547d0b26b9"
+    url = "https://github.com/JuliaBinaryWrappers/Aeron_jll.jl/releases/download/Aeron-v1.42.1+0/Aeron.v1.42.1.x86_64-linux-gnu-cxx11.tar.gz"
